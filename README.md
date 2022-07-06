@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Network Pentesting**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abiralpandey34?tab=repositories](https://github.com/abiralpandey34?tab=repositories)
+- 👨‍💻 All of my projects are available at this[ link](https://github.com/abiralpandey34?tab=repositories)
 
-- ⚡ Fun fact **I suffer from imposter syndrome.**
+- ⚡ Fun fact **- I suffer from imposter syndrome.**
 
 <p align="left">
 </p>
