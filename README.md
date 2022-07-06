@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Network Pentesting**
 
-- 👨‍💻 All of my projects are available at this[ link](https://github.com/abiralpandey34?tab=repositories)
+- 👨‍💻 I mostly code Automation [Tools](https://github.com/abiralpandey34/Automation-Scripts)
+
+- 👨‍💻 All of my projects are available at [here](https://github.com/abiralpandey34?tab=repositories)
 
 - ⚡ Fun fact **- I suffer from imposter syndrome.**
 
